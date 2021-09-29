@@ -1,4 +1,6 @@
 # CPNT-260-A2 Product Page
+https://github.com/Nephy1/Nephy1-CPNT-260-A3
+https://nephy1.github.io/Nephy1-CPNT-260-A3/
 
 ## Product Page rough draft
 
@@ -29,7 +31,8 @@ Header
 linear gradient and text shadow were surprisingly simple but very cool.
 
 I think css grid would have been a tad easier to work with if I knew it just as much as flexbox.
-
+ 
+ Started using grid for gallery, not insanely hard for a simple setup but I haven't been using *span* at all.
 
 # Disclaimer
 All album artwork shown on this site goes to their respective owners. 
@@ -43,3 +46,13 @@ Slim Shady LP - Aftermath + Interscope
 Font Awesome Icons 
 https://fontawesome.com/
 License : https://fontawesome.com/license#license
+
+Rolling Stones album art
+https://www.umusic.co.uk/terms.html
+
+Metallica Album Art 
+https://www.metallica.com/terms.html
+
+Rammstein Album Art 
+https://shop.rammstein.de/en/catalog/conditions.html
+
