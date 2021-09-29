@@ -112,7 +112,7 @@ img {
 
 
 /* CHANGES AFTER SCREEN IS 500PX OR MORE */
-@media screen and (min-width: 500px) {
+/*@media screen and (min-width: 500px) {}*/
   main {
     width: 100%;;
     background: linear-gradient( #F16A43 50%, #F7D969 50% );
@@ -216,6 +216,7 @@ img {
  article:hover{
    transform: scale(1.1);
  }
+ /* about us layout */
 .grid-container{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -225,6 +226,4 @@ img {
 img {
   max-width: 300px, 100%;
   display: block;
-}
-
 }
