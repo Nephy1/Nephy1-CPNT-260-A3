@@ -46,11 +46,16 @@ i {
   align-self: center;
 }
 .smicons {
-  max-width: 200px;
+  max-width: 250px;
   width: 100%;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
+.smicons ul {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
 }
 
 /* End of Icons */
@@ -151,6 +156,7 @@ img {
     text-decoration: none;
     flex-wrap: wrap;
   }
+
   .h2-title {
     display: flex;
     justify-content: center;
