@@ -34,6 +34,8 @@ I think css grid would have been a tad easier to work with if I knew it just as 
  
  Started using grid for gallery, not insanely hard for a simple setup but I haven't been using *span* at all.
 
+ 
+
 # Disclaimer
 All album artwork shown on this site goes to their respective owners. 
 

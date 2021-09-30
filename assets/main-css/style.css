@@ -185,6 +185,7 @@ img {
     border-radius: 5px;
     padding: 3px;
     text-decoration: none;
+    margin: 0 auto;
   }
   
   .logo {

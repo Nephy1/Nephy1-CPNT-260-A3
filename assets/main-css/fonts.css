@@ -3,6 +3,9 @@ h1, .h2-title, .banger-title {
 font-family: Rock Salt;
 text-shadow: black 2px 2px;
 }
+h1, .banger-title {
+  font-size: 60px;
+}
 
 h2 {
   font-family: Rock Salt;
@@ -11,6 +14,7 @@ h2 {
 .top-nav a, li {
   font-family: Lato;
   color: skyblue;
+  font-size: 25px;
 }
 .top-nav a:hover {
   background-color: black;
