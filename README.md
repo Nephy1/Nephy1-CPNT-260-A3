@@ -37,11 +37,16 @@ I think css grid would have been a tad easier to work with if I knew it just as 
 # Disclaimer
 All album artwork shown on this site goes to their respective owners. 
 
-Endless Summer - G-Eazy
-Wu Tang Greatest Hits - BMG Heritage
-Slim Shady LP - Aftermath + Interscope
-
 ## Attributions
+
+Endless Summer - G-Eazy
+https://bandcamp.com/terms_of_use
+
+Wu Tang Greatest Hits - BMG Heritage
+https://wutangclan.com/pages/terms-and-conditions
+
+Slim Shady LP - Aftermath + Interscope
+https://privacy.umusic.com/store-terms-umg.html
 
 Font Awesome Icons 
 https://fontawesome.com/
