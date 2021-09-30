@@ -47,12 +47,26 @@ Font Awesome Icons
 https://fontawesome.com/
 License : https://fontawesome.com/license#license
 
-Rolling Stones album art
+Bridge to Bremen 
 https://www.umusic.co.uk/terms.html
 
-Metallica Album Art 
+Black Album  
 https://www.metallica.com/terms.html
 
-Rammstein Album Art 
+Mutter  
 https://shop.rammstein.de/en/catalog/conditions.html
 
+Thriller 
+https://www.sonymusic.com/terms-and-conditions/
+
+License to Ill 
+https://shopca.beastieboys.com/terms/
+
+The Chronic
+https://downrightmerchinc.com/pages/terms-of-service
+
+The Eminem Show
+https://privacy.umusic.com/store-terms-umg.html
+
+Father Of All
+https://www.warnermusic.ca/terms-of-use
