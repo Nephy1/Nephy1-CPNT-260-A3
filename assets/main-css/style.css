@@ -6,6 +6,7 @@ nav {
   background-color: #9644BB;
 display: flex;
 justify-content:space-between;
+max-height: max-content;
 
 }
 nav ul, .top-nav {
@@ -183,9 +184,11 @@ img {
   .top-nav a {
     border: 3px solid skyblue;
     border-radius: 5px;
-    padding: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
     text-decoration: none;
     margin: 0 auto;
+    box-sizing: border-box;
   }
   
   .logo {
